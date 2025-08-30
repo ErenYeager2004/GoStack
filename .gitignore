@@ -1,0 +1,10 @@
+# Ignore go.mod
+go.mod
+
+# Ignore executable files
+*.exe
+# Ignore go.mod
+go.mod
+
+# Ignore executable files
+*.exe
